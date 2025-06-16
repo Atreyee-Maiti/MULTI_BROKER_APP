@@ -6,7 +6,8 @@ Run these commands
 
 https://github.com/user-attachments/assets/a1a76ca0-06b9-4dea-8a45-501b4b827399
 
-
+TO Have a SuccessFul Login, 
+Click on Zerodha Card
 
 
 ## Getting Started
